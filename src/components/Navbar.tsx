@@ -35,7 +35,7 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto flex items-center justify-between px-4 h-16">
         <a href="#" className="flex items-center gap-2 font-bold text-lg">
           <Shield className="w-5 h-5 text-primary" />
-          <span>BBV System</span>
+          <span>CivicLedger</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">

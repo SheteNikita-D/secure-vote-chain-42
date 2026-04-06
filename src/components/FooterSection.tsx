@@ -6,7 +6,7 @@ const FooterSection = () => (
       <div className="flex items-center justify-center gap-2 mb-4">
         <Shield className="w-6 h-6 text-accent" />
         <span className="text-lg font-bold text-primary-foreground">
-          Biometric Blockchain Voting
+          CivicLedger
         </span>
       </div>
       <p className="text-primary-foreground/60 text-sm max-w-md mx-auto mb-8">
@@ -22,7 +22,7 @@ const FooterSection = () => (
       </div>
       <div className="border-t border-primary-foreground/10 pt-6">
         <p className="text-xs text-primary-foreground/40">
-          © {new Date().getFullYear()} Biometric Blockchain Voting System. All
+          © {new Date().getFullYear()} CivicLedger. All
           rights reserved.
         </p>
       </div>
